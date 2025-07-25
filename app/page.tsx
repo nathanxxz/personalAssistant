@@ -1,8 +1,9 @@
-import Login from "./login/page";
+import HomePrincipal from "./home-principal/page";
+
 export default function Home() {
     return(
         <div>
-            <Login></Login>
+            <HomePrincipal/>
         </div>
 
     );
