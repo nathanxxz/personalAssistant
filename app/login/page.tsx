@@ -3,7 +3,7 @@ import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
 import Image from "next/image";
 import Link from "next/link";
-
+    
 export default function Login() {
     return (
         <div className="min-h-screen flex">
