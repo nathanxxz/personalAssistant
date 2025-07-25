@@ -11,9 +11,7 @@ export default function Navbar() {
             <li className="px-4">
               <a href="/ajuda" className="hover:text-sky-400">Ajuda</a>
             </li>
-            <li className="px-4">
-              <a href="" className="hover:text-sky-400">Teste</a>
-            </li>
+          
             <li className="px-4">
               <span className="border-r border-white"></span>
             </li>
