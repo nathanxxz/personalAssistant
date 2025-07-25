@@ -43,6 +43,7 @@ export default function AskComponent() {
       } else {
         setError("Resposta inesperada do servidor: URL do áudio não encontrada.");
       }
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
     } catch (err: any) {
       console.error(err);
       setError("Erro ao enviar a pergunta. Tente novamente.");

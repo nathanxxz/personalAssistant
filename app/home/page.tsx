@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Navbar from "@/components/ui/navbar";
 import AskComponent from "@/components/ui/askComponent";
 
